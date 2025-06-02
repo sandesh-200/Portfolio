@@ -46,8 +46,14 @@ export default function About() {
   ]
 
   const experiences = [
+        {
+      year: '2025',
+      company: 'Buy2Rent',
+      role: 'Fullstack Developer',
+      description: 'Full-stack developer building dynamic web solutions for a real estate company, enhancing property listings and user experience'
+    },
     {
-      year: '2024 - Present',
+      year: '2024 - 2025',
       company: 'Lumen Labs',
       role: 'Fullstack Developer',
       description: 'Leading the development team and implementing modern web solutions.',
