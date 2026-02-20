@@ -4,13 +4,13 @@ export default {
     "./index.html",
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
-  theme: {
-    extend: {
-      fontFamily: {
-        lato: ['Lato', 'sans-serif'],
-        lusitana: ['Lusitana', 'serif'],
-      }
+theme: {
+  extend: {
+    fontFamily: {
+      sans: ['DM Sans', 'sans-serif'],
+      serif: ['Cormorant Garamond', 'serif'],
     },
   },
+},
   plugins: [],
 }
